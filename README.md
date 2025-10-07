@@ -7,8 +7,8 @@ This repository contains the source code for Weatherly, a simple yet elegant iOS
 Features
 
 Real-time Weather:Get the current temperature, weather conditions, and city name.
-Location-Based:** Automatically fetches weather data for the user's current location.
-City Search:** Manually search for the weather in any city worldwide.
+Location-Based: Automatically fetches weather data for the user's current location.
+City Search: Manually search for the weather in any city worldwide.
 Clean UI:A user-friendly and intuitive interface.
 
  🛠️ Built With
@@ -17,7 +17,7 @@ Swift:The primary programming language for modern iOS development.
 UIKit: For building the user interface.
 CoreLocation: To access the device's current location.
 URLSession:For making network requests to the weather API.
-OpenWeatherMap API:** To fetch weather data.
+OpenWeatherMap API: To fetch weather data.
 
 🚀 Getting Started
 
